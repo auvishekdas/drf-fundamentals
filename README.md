@@ -11,6 +11,8 @@ This repository contains my daily practice files and projects as I learn Django 
 ## 📁 File Structure
 
 * **drf-day-01** — API Setup & Authentication: Initialized DRF environment, configured URL routing, and integrated browsable API authentication endpoints.
+* **`drf-day-02`** — Complex Data & Admin Customization: Created `rest_api` app, configured complex models (`Aiquest`) with custom fields, installed Pillow for image handling, and customized Django admin panel with `list_display`.
+
 
 ## 🛠️ Environment
 
