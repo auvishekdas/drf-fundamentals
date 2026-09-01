@@ -12,7 +12,8 @@ This repository contains my daily practice files and projects as I learn Django 
 
 * **drf-day-01** — API Setup & Authentication: Initialized DRF environment, configured URL routing, and integrated browsable API authentication endpoints.
 * **`drf-day-02`** — Complex Data & Admin Customization: Created `rest_api` app, configured complex models (`Aiquest`) with custom fields, installed Pillow for image handling, and customized Django admin panel with `list_display`.
-* **`​drf-day-03`** — Model Serializers & Queryset Rendering: Created custom AiquestSerializer, configured function-based views to render complete querysets and individual model instances (pk) into JSON format using JSONRenderer and HttpResponse. 
+* **`​drf-day-03`** — Model Serializers & Queryset Rendering: Created custom AiquestSerializer, configured function-based views to render complete querysets and individual model instances (pk) into JSON format using JSONRenderer and HttpResponse.
+* **`drf-day-04`** — External API Consumption: Created standalone Python script using the requests library to fetch and render JSON data from the Django REST API endpoint.  
 
 ## 🛠️ Environment
 
