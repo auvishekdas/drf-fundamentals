@@ -15,7 +15,9 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`​drf-day-03`** — Model Serializers & Queryset Rendering: Created custom AiquestSerializer, configured function-based views to render complete querysets and individual model instances (pk) into JSON format using JSONRenderer and HttpResponse.
 * **`drf-day-04`** — External API Consumption: Created standalone Python script using the requests library to fetch and render JSON data from the Django REST API endpoint. 
 * **`​drf-day-05`** — Deserialization & Data Creation: Created custom AiquestSerializer with a create() method, configured function-based views with csrf_exempt and JSONParser to handle incoming JSON POST requests, validate incoming data, and save new model instances to the database.
-* **`drf-day-06`** — External Deserialization & Data Insertion: Created a standalone Python script to send external JSON POST requests, process deserialization, and successfully persist new model instances into the database.  
+* **`drf-day-06`** — External Deserialization & Data Insertion: Created a standalone Python script to send external JSON POST requests, process deserialization, and successfully persist new model instances into the database. 
+* **`drf-day-07`** — Data Update Operations & API Integration: Implemented function-based views to handle HTTP PUT requests for updating existing model records, configured request body stream parsing, validated incoming serialization data, and developed an external Python script to send structured JSON payloads for seamless database updates. 
+ 
 
 ## 🛠️ Environment
 
