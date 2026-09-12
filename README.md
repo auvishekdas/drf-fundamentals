@@ -19,6 +19,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`drf-day-07`** — Data Update Operations & API Integration: Implemented function-based views to handle HTTP PUT requests for updating existing model records, configured request body stream parsing, validated incoming serialization data, and developed an external Python script to send structured JSON payloads for seamless database updates. 
 * **`​drf-day-08`** — Data Deletion Operations & External Testing: Implemented function-based views to handle HTTP DELETE requests for removing specific database records, configured @csrf_exempt and byte-stream JSON parsing to safely process incoming client data, and developed an external Python script (delete.py) utilizing requests.delete(json=data) for robust API communication and automated deletion testing. 
 * **`drf-day-09`** — Function-Based GET APIs & Dynamic Routing: Implemented custom function-based views using @api_view(['GET']) to handle HTTP GET requests, configured dynamic URL routing for collection listing and single-record retrieval via primary key (pk), and utilized DRF serializers for JSON responses. 
+* **`​drf-day-10`** — Function-Based POST APIs & Data Validation: Implemented custom function-based views using @api_view(['POST']) to handle incoming client data, utilized DRF serializers for request data parsing, validation (is_valid()), and database insertion with proper success/error JSON responses. 
  
 
 ## 🛠️ Environment
