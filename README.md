@@ -21,7 +21,8 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`drf-day-09`** — Function-Based GET APIs & Dynamic Routing: Implemented custom function-based views using @api_view(['GET']) to handle HTTP GET requests, configured dynamic URL routing for collection listing and single-record retrieval via primary key (pk), and utilized DRF serializers for JSON responses. 
 * **`​drf-day-10`** — Function-Based POST APIs & Data Validation: Implemented custom function-based views using @api_view(['POST']) to handle incoming client data, utilized DRF serializers for request data parsing, validation (is_valid()), and database insertion with proper success/error JSON responses.
 * **`​drf-day-11`** — Function-Based PUT & PATCH APIs: Implemented custom function-based views using @api_view(['PUT', 'PATCH']) to handle full and partial resource updates, retrieved records via primary key (pk), utilized DRF serializers for validation and data persistence, and returned appropriate success JSON responses. 
-* **`​drf-day-12`** — Function-Based DELETE API: Implemented custom function-based views using @api_view(['DELETE']) to handle resource deletion, retrieved specific records via primary key (pk), performed database object deletion (.delete()), and returned appropriate success JSON responses. 
+* **`​drf-day-12`** — Function-Based DELETE API: Implemented custom function-based views using @api_view(['DELETE']) to handle resource deletion, retrieved specific records via primary key (pk), performed database object deletion (.delete()), and returned appropriate success JSON responses.
+* **`drf-day-13`** - Class-Based APIViews: Implemented custom Class-Based Views (APIView) in Django REST Framework to handle multiple HTTP methods (GET, POST, PUT, PATCH, DELETE) within a single class, utilized serializers for data validation and transformation, and returned structured JSON responses. 
  
 
 ## 🛠️ Environment
