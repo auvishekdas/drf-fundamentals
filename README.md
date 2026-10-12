@@ -24,6 +24,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`​drf-day-12`** — Function-Based DELETE API: Implemented custom function-based views using @api_view(['DELETE']) to handle resource deletion, retrieved specific records via primary key (pk), performed database object deletion (.delete()), and returned appropriate success JSON responses.
 * **`drf-day-13`** - Class-Based APIViews: Implemented custom Class-Based Views (APIView) in Django REST Framework to handle multiple HTTP methods (GET, POST, PUT, PATCH, DELETE) within a single class, utilized serializers for data validation and transformation, and returned structured JSON responses.
 * **`drf-day-14`**- ListModelMixin & GenericAPIView: Implemented ListModelMixin along with GenericAPIView in Django REST Framework to efficiently retrieve and list database records, configured queryset and serializer_class, and returned structured JSON responses.
+* **`​drf-day-15`** - CreateModelMixin & GenericAPIView: Implemented CreateModelMixin along with GenericAPIView in Django REST Framework to efficiently handle HTTP POST requests, validate incoming data using serializers, and create new database records with structured JSON responses. 
 
  
  
