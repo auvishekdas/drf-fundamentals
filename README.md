@@ -26,6 +26,8 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`drf-day-14`**- ListModelMixin & GenericAPIView: Implemented ListModelMixin along with GenericAPIView in Django REST Framework to efficiently retrieve and list database records, configured queryset and serializer_class, and returned structured JSON responses.
 * **`​drf-day-15`** - CreateModelMixin & GenericAPIView: Implemented CreateModelMixin along with GenericAPIView in Django REST Framework to efficiently handle HTTP POST requests, validate incoming data using serializers, and create new database records with structured JSON responses. 
 * **`drf-day-16`** - RetrieveModelMixin & GenericAPIView: Implemented RetrieveModelMixin along with GenericAPIView in Django REST Framework to efficiently retrieve specific database records by primary key, configured queryset and serializer_class, and returned structured JSON responses.
+* **`drf-day-17`** - UpdateModelMixin & GenericAPIView: Implemented UpdateModelMixin along with GenericAPIView in Django REST Framework to handle HTTP PUT requests, validate and update existing database records by primary key (`pk`), and return updated structured JSON responses.
+
 
  
  
