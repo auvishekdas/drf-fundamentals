@@ -29,8 +29,6 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`drf-day-17`** - UpdateModelMixin & GenericAPIView: Implemented UpdateModelMixin along with GenericAPIView in Django REST Framework to handle HTTP PUT requests, validate and update existing database records by primary key (`pk`), and return updated structured JSON responses.
 * **`drf-day-18`** — DestroyModelMixin & GenericAPIView: Implemented DestroyModelMixin along with GenericAPIView in Django REST Framework to handle HTTP DELETE requests, securely remove specific database records by primary key (pk), and return a 204 No Content structured response.
 * **`​drf-day-19`** — CRUD Operations using ModelMixins & GenericAPIView: Combined ListModelMixin, CreateModelMixin, RetrieveModelMixin, UpdateModelMixin, and DestroyModelMixin with GenericAPIView in DRF to handle full CRUD operations efficiently with clean URL routing.  
-`
-
 
  
  
