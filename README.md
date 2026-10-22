@@ -30,6 +30,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * **`drf-day-18`** — DestroyModelMixin & GenericAPIView: Implemented DestroyModelMixin along with GenericAPIView in Django REST Framework to handle HTTP DELETE requests, securely remove specific database records by primary key (pk), and return a 204 No Content structured response.
 * **`​drf-day-19`** — CRUD Operations using ModelMixins & GenericAPIView: Combined ListModelMixin, CreateModelMixin, RetrieveModelMixin, UpdateModelMixin, and DestroyModelMixin with GenericAPIView in DRF to handle full CRUD operations efficiently with clean URL routing.  
 * **`​drf-day-20`** — CRUD Operations using DRF Concrete View Classes: Implemented full CRUD functionality in Django REST Framework using Concrete View Classes (ListCreateAPIView and RetrieveUpdateDestroyAPIView). Optimized codebase by reducing mixin boilerplate and establishing clean, RESTful URL routing for resource management.
+* **`​drf-day-21`** — Complete CRUD with DRF ModelViewSet & DefaultRouter: Refactored the API codebase by replacing multiple view classes with DRF's ModelViewSet. Integrated DefaultRouter to automate URL routing for all standard CRUD operations and generate a dynamic API Root interface, significantly reducing boilerplate code and enhancing maintainability.
  
  
 
